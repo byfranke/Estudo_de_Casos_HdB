@@ -211,7 +211,7 @@ Durante a análise, o arquivo robots.txt do domínio vendetudo.com revelou diret
 
 ![Screenshot 2025-01-15 at 17 32 09](https://github.com/user-attachments/assets/0a069f23-e31e-4e22-992f-6d77013f0b12)
 
-***Dados Ficticios***
+*Dados fictícios*
 
 **Exposição de Credenciais de Acesso:**
 
@@ -236,7 +236,8 @@ Após obter acesso ao painel administrativo utilizando a senha comprometida, for
 Durante a análise do painel administrativo, foi constatado que não há mecanismos de validação para os arquivos enviados ao servidor. Essa ausência de controles permite o upload de arquivos maliciosos, como scripts PHP, que podem ser executados diretamente no servidor, representando um risco significativo à segurança da aplicação.
 
 ![Screenshot 2025-01-15 at 17 41 02](https://github.com/user-attachments/assets/6adc4545-8a9b-40f4-8fbc-6217a39999c0)
-***note o arquivo shell.php***
+
+*note o arquivo shell.php*
 
 **Execução Remota de Comandos:**
 
