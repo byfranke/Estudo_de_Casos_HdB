@@ -15,7 +15,7 @@ Responsável: RNP
 
 Tempo: 10 hrs
 
-Data: 09/09 até o dia 22/09/2023
+Data: 09/09 até o dia 22/09/2024
 
 Custo: 1 Certificado
 
