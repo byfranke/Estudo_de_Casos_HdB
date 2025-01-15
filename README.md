@@ -211,6 +211,8 @@ Durante a análise, o arquivo robots.txt do domínio vendetudo.com revelou diret
 
 ![Screenshot 2025-01-15 at 17 32 09](https://github.com/user-attachments/assets/0a069f23-e31e-4e22-992f-6d77013f0b12)
 
+***Dados Ficticios***
+
 **Exposição de Credenciais de Acesso:**
 
 No diretório /backups/, foi identificado o arquivo /admin.php.txt, que contém um hash MD5 da senha do painel administrativo. Devido à simplicidade da senha, o hash foi facilmente quebrado utilizando ferramentas online, permitindo o acesso ao painel de administração do sistema.
