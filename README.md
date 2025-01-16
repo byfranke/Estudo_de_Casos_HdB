@@ -78,7 +78,7 @@ As principais partes envolvidas no teste de penetração são:
 
 
 
-# Plano de Teste de Penetração
+**Plano de Teste de Penetração**
 
 O plano inclui:
 
@@ -92,7 +92,7 @@ O plano inclui:
 
 
 
-**ACORDO DE NÃO DIVULGAÇÃO (NDA)**
+# ACORDO DE NÃO DIVULGAÇÃO (NDA)
 
 Partes:
 
